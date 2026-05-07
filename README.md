@@ -24,6 +24,7 @@
 
 ### Player
 - God Mode
+- Damage Multiplier (USE AT UR OWN RISK)
 - Infinite Ammo
 - Max Ultimate Gauge
 - No Cooldown
