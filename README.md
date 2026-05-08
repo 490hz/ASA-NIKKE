@@ -34,6 +34,7 @@
 
 ### Visuals
 - FPS Indicator
+- Skin Unlocker
 
 ### Misc
 - FPS Unlocker
