@@ -38,7 +38,7 @@
 
 ### Misc
 - FPS Unlocker
-- Custom Menu Scale
+- Custom Menu Font
 
 ---
 
