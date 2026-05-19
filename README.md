@@ -38,6 +38,14 @@
 - FPS Indicator
 - Skin Unlocker
 
+### Mini Games
+- TTS
+- Naytiba Raid
+- Pirate Cafe
+- Bubble March
+- For The King
+- BBQ Master
+
 ### Misc
 - FPS Unlocker
 
