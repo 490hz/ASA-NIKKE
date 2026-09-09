@@ -5,7 +5,7 @@
 # ASA (Yoru)
 
 
-<a href="https://discord.gg/9mJKfrEKSn">
+<a href="https://discord.gg/cCcqS8sau5">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
 </a>
 
@@ -23,31 +23,39 @@
 ## Features
 
 ### Player
-- Skip Talk
 - God Mode
-- Damage Multiplier (USE AT UR OWN RISK)
+- Instant Kill
+- Rapid fire (USE AT YOUR OWN RISK!)
 - Infinite Ammo
-- Max Ultimate Gauge
 - No Cooldown
+- Max Ult Gauge
+- Hit Multiplier (USE AT YOUR OWN RISK!)
+- Damage Multiplier (USE AT YOUR OWN RISK!)
 
 ### World
-- Global Speed
 - Dumb Enemies
-
-### Visuals
-- FPS Indicator
-- Skin Unlocker
+- Skip Talk
+- Global Speed
 
 ### Mini Games
-- TTS
+- Tracing The Star
+- BFG Clean UP
 - Naytiba Raid
+- Rebuild Eden
 - Pirate Cafe
+- Dragon Dungeon Run
 - Bubble March
+- In The Mirror
+- Dessert Rush
+- M. O. G. Ex
 - For The King
+- Gift Factory
 - BBQ Master
 
-### Misc
-- FPS Unlocker
+### Visuals
+- Skin Unlocker
+- FPS Unlock
+- FOV Changer
 
 ---
 
