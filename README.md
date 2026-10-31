@@ -36,6 +36,7 @@
 - Dumb Enemies
 - Skip Talk
 - Global Speed
+- Loot Lost Relics
 
 ### Mini Games
 - Tracing The Star
